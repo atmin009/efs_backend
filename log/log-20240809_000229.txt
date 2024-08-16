@@ -1,0 +1,2 @@
+2024-08-09 00:02:31,103 - Model file does not exist: models/annotation=NoneType required=True title='Model Name' description='The name of the model file to use for prediction' json_schema_extra={}.pkl
+2024-08-09 00:02:31,104 - Prediction error: 404: Model file not found

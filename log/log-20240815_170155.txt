@@ -1,0 +1,20 @@
+2024-08-15 17:02:05,077 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:05,086 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:05,089 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:05,095 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:12,809 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:12,814 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:12,816 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:12,824 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:13,635 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:13,644 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:13,646 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:13,654 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:14,181 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:14,191 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:14,192 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:14,197 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:14,692 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:14,697 - No buildings found in Unit table for year: 2024, month: 8
+2024-08-15 17:02:14,698 - Model names to be used: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12']
+2024-08-15 17:02:14,707 - No buildings found in Unit table for year: 2024, month: 8
