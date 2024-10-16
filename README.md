@@ -12,10 +12,12 @@
 ### `FrontEnd`
 - [React Framework](https://github.com/atmin009/efs_frontend)
 
-
 ### `Backend`
 - Fast API
-
+  
+### `Database`
+- [MySQL](https://github.com/atmin009/efs_backend/blob/f9174a0f939eaf84f8bae9964fdeccab93e5b804/Database.sql)
+  
 ## Installation and Commands
 
 | Installation Command                               | Description                           |
